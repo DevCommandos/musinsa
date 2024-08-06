@@ -1,0 +1,9 @@
+1722357771749|0|statement|connection 17|url jdbc:h2:mem:73c1a4e6-3e90-44e8-bc94-cfb1f33035f8|drop table if exists brand cascade |drop table if exists brand cascade 
+1722357771750|0|statement|connection 17|url jdbc:h2:mem:73c1a4e6-3e90-44e8-bc94-cfb1f33035f8|drop table if exists category cascade |drop table if exists category cascade 
+1722357771750|0|statement|connection 17|url jdbc:h2:mem:73c1a4e6-3e90-44e8-bc94-cfb1f33035f8|drop table if exists product cascade |drop table if exists product cascade
+1722951347854|0|statement|connection 34|url jdbc:h2:mem:9bf4f1c2-84a3-4ccb-8080-b9b2d02b5c1a|drop table if exists brand cascade |drop table if exists brand cascade 
+1722951347855|0|statement|connection 34|url jdbc:h2:mem:9bf4f1c2-84a3-4ccb-8080-b9b2d02b5c1a|drop table if exists category cascade |drop table if exists category cascade 
+1722951347855|0|statement|connection 34|url jdbc:h2:mem:9bf4f1c2-84a3-4ccb-8080-b9b2d02b5c1a|drop table if exists product cascade |drop table if exists product cascade 
+1722951347864|0|statement|connection 35|url jdbc:h2:mem:720855ec-b088-4a3f-a39b-43145742dc81|drop table if exists brand cascade |drop table if exists brand cascade 
+1722951347865|0|statement|connection 35|url jdbc:h2:mem:720855ec-b088-4a3f-a39b-43145742dc81|drop table if exists category cascade |drop table if exists category cascade 
+1722951347866|0|statement|connection 35|url jdbc:h2:mem:720855ec-b088-4a3f-a39b-43145742dc81|drop table if exists product cascade |drop table if exists product cascade 
